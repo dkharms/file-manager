@@ -1,0 +1,13 @@
+D:\RiderProjects\hse\module1\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe
+D:\RiderProjects\hse\module1\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.deps.json
+D:\RiderProjects\hse\module1\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.json
+D:\RiderProjects\hse\module1\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.dev.json
+D:\RiderProjects\hse\module1\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.dll
+D:\RiderProjects\hse\module1\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.pdb
+D:\RiderProjects\hse\module1\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.csprojAssemblyReference.cache
+D:\RiderProjects\hse\module1\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfoInputs.cache
+D:\RiderProjects\hse\module1\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfo.cs
+D:\RiderProjects\hse\module1\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.csproj.CoreCompileInputs.cache
+D:\RiderProjects\hse\module1\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.dll
+D:\RiderProjects\hse\module1\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.pdb
+D:\RiderProjects\hse\module1\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.genruntimeconfig.cache
